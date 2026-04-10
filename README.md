@@ -26,4 +26,4 @@ This project is a high-fidelity interactive prototype for **Vocabulary Explorer*
 - Ricky Minhas
 - Joshua Kammermayer
 - Mohammad Umran Rahman
-- 
+  
